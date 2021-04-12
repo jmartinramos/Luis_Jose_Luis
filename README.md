@@ -12,3 +12,6 @@ José Luis Martín
 src/Practica1_WebScraping.ipynb : Notebook que contiene el código en Python que implementa la extracción de información de los accionistas de la compañía.
 src/api_key.txt : Contiene la clave del servicio API que resuelve las captchas de la web.
 Practica1_WebScraping.pdf : Contiene las respuestas a las preguntas de la práctica.
+
+# DOI
+10.5281/zenodo.4679915 https://zenodo.org/search?page=1&size=20&q=4679915
